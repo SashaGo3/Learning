@@ -26,7 +26,7 @@ console.log(bankAccountBalance);
 
 
 
-//bankAccountBalance = 10000;
+bankAccountBalance = 10000;
 spendingThreshold = 9000;
 phonePrice = 1000;
 accessoriesPrice = 100;
